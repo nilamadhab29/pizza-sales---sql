@@ -20,15 +20,15 @@ This project analyzes a Pizza Sales dataset using SQL to extract valuable busine
 ## 📊 Key Business Questions Solved
 
 1. Retrieve the total number of orders placed.
-- Calculate total revenue generated from pizza sales.
-- Identify the highest-priced pizza.
-- Determine the most common pizza size ordered.
-- Find the top 5 most ordered pizza types.
-- Calculate total quantity ordered by pizza category.
-- Analyze order distribution by hour of the day.
-- Determine category-wise pizza distribution.
-- Calculate average pizzas ordered per day.
-- Identify the top 3 pizza types based on revenue.
+2. Calculate total revenue generated from pizza sales.
+3. Identify the highest-priced pizza.
+4. Determine the most common pizza size ordered.
+5. Find the top 5 most ordered pizza types.
+6. Calculate total quantity ordered by pizza category.
+7. Analyze order distribution by hour of the day.
+8. Determine category-wise pizza distribution.
+9. Calculate average pizzas ordered per day.
+10. Identify the top 3 pizza types based on revenue.
 
 ## 📈 Key Insights
 - Total Orders: 21,350
